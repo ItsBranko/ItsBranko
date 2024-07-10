@@ -26,7 +26,7 @@ Let's connect and chat about gaming, cooking, or anything else that sparks your 
 ***
 
 <p align="center">
-Skills: C# / C++ / Unreal Engine / Unity / CLIs /<br>
+Skills: C# / C++ / HTML / Unreal Engine / Unity / CLIs /<br>
 </p>
 
 - 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this [link](https://sites.google.com/view/brankozikic-portfolio/projects/party-tanks-mini-game)!
