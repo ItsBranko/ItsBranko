@@ -12,10 +12,10 @@ Let's connect and chat about gaming, cooking, or anything else that sparks your 
 
 Skills: C# / C++ / Unreal Engine / Unity / CLIs / 
 
-- 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can checkout the process by clicking this link! 
+- 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this link! 
 - 🌱 I’m currently learning Unity, Unreal Engine Blueprints, VFX 
 
 
 [<img src='https://cdn.simpleicons.org/github/white' alt='github' height='40'>](https://github.com/https://github.com/ItsBranko)  [<img src='https://cdn.simpleicons.org/linkedin/white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/branko-zikic-9992762a0//)  [<img src='https://cdn.simpleicons.org/facebook/white' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/branko.zikic)  [<img src='https://cdn.simpleicons.org/instagram/white' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/itsbranko//)  [<img src='https://cdn.simpleicons.org/youtube/white' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@ItsBranko)  [<img src='https://cdn.simpleicons.org/itchdotio/white' alt='itch-dot-io' height='40'>](https://itsbranko.itch.io/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbranko&show_icons=true&count_private=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsbranko&theme=tokyonight)](https://git.io/streak-stats)
