@@ -10,6 +10,13 @@ A casino dealer and combat sports enthusiast turned game developer based in Stoc
 
 Let's connect and chat about gaming, cooking, or anything else that sparks your interest! 
 
+***
+
+> [!TIP]
+> Meanwhile, take a minute to check out my [portfolio](https://sites.google.com/view/brankozikic-portfolio)😊
+
+***
+
 Skills: C# / C++ / Unreal Engine / Unity / CLIs / 
 
 - 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this link! 
