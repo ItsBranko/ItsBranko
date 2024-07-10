@@ -30,7 +30,7 @@ Skills: C# / C++ / Unreal Engine / Unity / CLIs /<br>
 </p>
 
 - 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this [link](https://sites.google.com/view/brankozikic-portfolio/projects/party-tanks-mini-game)!
-- 🌱 I’m currently learning Unity, Unreal Engine Blueprints, VFX
+- 🌱 I’m currently learning Unity, Unreal Engine Blueprints and I'm trying to learn more about VFX and how they're done in the Unreal!
 
 ***
 
