@@ -35,33 +35,14 @@ Skills: C# / C++ / Unreal Engine / Unity / CLIs /<br>
 ***
 
 <p align="center">
-<a href="https://github.com/ItsBranko">
-  <img src="https://cdn.simpleicons.org/github/cornflowerblue" alt="github" height="40">
-</a>
- 
-<a href="https://www.linkedin.com/in/branko-zikic-9992762a0/">
-  <img src="https://cdn.simpleicons.org/linkedin/cornflowerblue" alt="linkedin" height="40">
-</a>
+  <a href="https://github.com/ItsBranko"><img src="https://cdn.simpleicons.org/github/cornflowerblue" alt="github" height="40"></a>
+  <a href="https://www.linkedin.com/in/branko-zikic-9992762a0/"><img src="https://cdn.simpleicons.org/linkedin/cornflowerblue" alt="linkedin" height="40"></a>
+  <a href="https://www.facebook.com/branko.zikic"><img src="https://cdn.simpleicons.org/facebook/cornflowerblue" alt="facebook" height="40"></a>
+  <a href="https://www.instagram.com/itsbranko/"><img src="https://cdn.simpleicons.org/instagram/cornflowerblue" alt="instagram" height="40"></a>
+  <a href="https://www.youtube.com/@ItsBranko"><img src="https://cdn.simpleicons.org/youtube/cornflowerblue" alt="YouTube" height="40"></a>
+  <a href="https://itsbranko.itch.io/"><img src="https://cdn.simpleicons.org/itchdotio/cornflowerblue" alt="itch-dot-io" height="40"></a>
+</p>
 
-<a href="https://www.facebook.com/branko.zikic">
-  <img src="https://cdn.simpleicons.org/facebook/cornflowerblue" alt="facebook" height="40">
-</a>
-
-<a href="https://www.instagram.com/itsbranko/">
-  <img src="https://cdn.simpleicons.org/instagram/cornflowerblue" alt="instagram" height="40">
-</a>
-
-<a href="https://www.youtube.com/@ItsBranko">
-  <img src="https://cdn.simpleicons.org/youtube/cornflowerblue" alt="YouTube" height="40">
-</a>
-
-<a href="https://itsbranko.itch.io/">
-  <img src="https://cdn.simpleicons.org/itchdotio/cornflowerblue" alt="itch-dot-io" height="40">
-</a>
-
-<br>
- <br>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=itsbranko&theme=tokyonight" alt="GitHub Streak">
-</a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=itsbranko&theme=tokyonight" alt="GitHub Streak"></a>
 </p>
