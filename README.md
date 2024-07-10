@@ -19,7 +19,7 @@ Let's connect and chat about gaming, cooking, or anything else that sparks your 
 ***
 
 > [!TIP]
-> <p align="center">Meanwhile, take a minute to check out my <a href="https://sites.google.com/view/brankozikic-portfolio">portfolio</a> 😊<br>
+> <p align="center">Meanwhile, take a minute to check out my <a href="https://www.brankozikic.com">portfolio</a> 😊<br>
 </p>
 <br>
 
@@ -29,7 +29,7 @@ Let's connect and chat about gaming, cooking, or anything else that sparks your 
 Skills: C# / C++ / HTML / Unreal Engine / Unity / CLIs /<br>
 </p>
 
-- 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this [link](https://sites.google.com/view/brankozikic-portfolio/projects/party-tanks-mini-game)!
+- 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this [link](https://www.brankozikic.com/projects/party-tanks-mini-game)!
 - 🌱 I’m currently learning Unity, Unreal Engine Blueprints and I'm trying to learn more about VFX and how they're done in the Unreal!
 
 ***
