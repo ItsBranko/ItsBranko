@@ -19,7 +19,7 @@ Let's connect and chat about gaming, cooking, or anything else that sparks your 
 ***
 
 > [!TIP]
-> <p align="center">Meanwhile, take a minute to check out my <a href="https://sites.google.com/view/brankozikic-portfolio" target="_blank" rel="noopener noreferrer">portfolio</a> 😊<br>
+> <p align="center">Meanwhile, take a minute to check out my <a href="https://sites.google.com/view/brankozikic-portfolio">portfolio</a> 😊<br>
 </p>
 <br>
 
