@@ -9,12 +9,13 @@ Hi there 👋, I'm Branko Zikic
 
 ![Game Design & Development](https://media.licdn.com/dms/image/D5616AQHmvddjlgBKXg/profile-displaybackgroundimage-shrink_350_1400/0/1700213842710?e=1726099200&v=beta&t=_dBuncDs5kc2rEjR-6Q63i1sqidmCwdmabowjsprx4E)
 
-<p align="center">
-🎲 A casino dealer and combat sports enthusiast turned game developer based in Stockholm, Sweden with two big fluffy cats. 😻😻<br>
-🌙 By night, I'm hustling at the tables, but by day, I'm diving into Unity and Unreal, crafting gaming experiences and gazing at the stars.<br>
-📚 Currently, I'm immersing myself in game programming at Forsbergs Skola, embracing the wild ride ahead.<br><br>
-Let's connect and chat about gaming, cooking, or anything else that sparks your interest!
-</p>
+
+- 🎲 A casino dealer and combat sports enthusiast turned game developer based in Stockholm, Sweden with two big fluffy cats. 😻😻
+- 🌙 By night, I'm hustling at the tables, but by day, I'm diving into Unity and Unreal, crafting gaming experiences and gazing at the stars.
+- 📚 Currently, I'm immersing myself in game programming at Forsbergs Skola, embracing the wild ride ahead.<br><br>
+
+
+<p align="center"> Let's connect and chat about gaming, cooking, or anything else that sparks your interest!</p>
 
 ***
 
