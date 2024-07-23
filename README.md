@@ -29,7 +29,7 @@ Hi there 👋, I'm Branko Zikic
 ***
 
 <p align="center">
-Skills: C# / C++ / HTML / Unreal Engine / Unity / CLIs /<br>
+Skills: C# / C++ / HTML / Unreal Engine / Unity /<br>
 </p>
 
 - 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this [link](https://www.brankozikic.com/projects/party-tanks-mini-game)!
