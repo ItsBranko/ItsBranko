@@ -32,7 +32,7 @@ Hi there 👋, I'm Branko Zikic
 Skills: C# / C++ / HTML / Unreal Engine / Unity /<br>
 </p>
 
-- 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this [link](https://www.brankozikic.com/projects/party-tanks-mini-game)!
+- 🔭 I’m currently working on a school project. Creating a mini-game for a party game using Unreal Engine 5. You can check out the process by clicking this [link](https://www.brankozikic.com/projects/tanky-pizza-bank)!
 - 🌱 I’m currently learning Unity, Unreal Engine Blueprints and I'm trying to learn more about VFX and how they're done in the Unreal!
 
 ***
