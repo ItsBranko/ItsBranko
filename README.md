@@ -7,8 +7,7 @@ Hi there 👋, I'm Branko Zikic
  Game Design & Development
 </h3>
 
-![Game Design & Development](https://drive.google.com/file/d/1okfvDR0HeFEGTZXUQj6jpTAzZy672w-v/view?usp=sharing)
-
+![Game Design & Development](https://github.com/ItsBranko/SnotShot/blob/main/Assets/Assets/e89544ac-ca1a-4c9c-ab8b-d9bda382d755.jfif.png)
 
 🎲 A casino dealer and combat sports enthusiast turned game developer based in Stockholm, Sweden with two big fluffy cats. 😻😻
 
